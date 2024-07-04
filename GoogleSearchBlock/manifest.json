@@ -1,7 +1,7 @@
 {
-  "name": "[RU] VK -> Music Fix ",
+  "name": "Google Search Block",
   "version": "1.1",
-  "description": "Удаляет лишние елементы в веб версии вк. Заменяет ссылку музыки и добавляет ?section=all. By Underko",
+  "description": "Удаляет лишние сайты",
   "manifest_version": 3,
   "content_scripts": [
     {
